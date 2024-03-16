@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "792905447245",
+    "firebase_url": "https://tripaids2-02-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tripaids2-02",
+    "storage_bucket": "tripaids2-02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792905447245:android:6d9a9a908b6d731c04a904",
+        "android_client_info": {
+          "package_name": "com.flutterflow.tripaid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792905447245-bcth0176pdkat9cjge9g5g3c57cevhdk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.tripaid",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "792905447245-ed5a1sodm5b41i514lk47uirqt8baesb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4hnoo3YaTF4GMJs8U_mOek4Nj-GOgAi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792905447245-ed5a1sodm5b41i514lk47uirqt8baesb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "792905447245-61choi0blp91is9r87c6bgnbilu4mf57.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.searchtest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792905447245:android:b30955fa2db9079e04a904",
+        "android_client_info": {
+          "package_name": "com.mycompany.searchtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792905447245-5ld2jni1ouhg9bphnektvd7aaf3954d8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.searchtest",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "792905447245-ed5a1sodm5b41i514lk47uirqt8baesb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4hnoo3YaTF4GMJs8U_mOek4Nj-GOgAi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792905447245-ed5a1sodm5b41i514lk47uirqt8baesb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "792905447245-61choi0blp91is9r87c6bgnbilu4mf57.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.searchtest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
